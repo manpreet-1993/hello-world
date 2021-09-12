@@ -1,1 +1,1 @@
-# hello-world
+This is my first project and i will try to design unique, informative and accessable  website.I will learn front end and back end programming for creating a website.  
